@@ -1,0 +1,14 @@
+body {
+    background-color: #FFF;
+    color: #1B1B1B;
+    font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+h1, p {
+    margin-left: 50px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+p {
+    max-width: 500px;
+}
